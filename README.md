@@ -1,4 +1,4 @@
-### Hi there 👋
+<img width="48.05%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrrahmenz&theme=default&layout=compact" /><img width="51.95%" src="https://github-readme-stats.vercel.app/api?username=abdrrahmenz&&show_icons=true&theme=default" />
 
 <!--
 **abdrrahmenz/abdrrahmenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
